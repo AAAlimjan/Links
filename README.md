@@ -1,4 +1,7 @@
+
+
 A Reading List
+
 
 > “Not a trace of fist or sword will remain, man will die and only his words will remain.”
 >
