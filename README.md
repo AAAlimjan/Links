@@ -1,8 +1,7 @@
 #  Reading List
 
 > ## “Man will die and only his words will remain.”
->
-> ——Yusuf Khas Hajib,《Qutadghu Bilig》
+> ## ——Yusuf Khas Hajib,《Qutadghu Bilig》
 
 
  ***I like to share what I’m reading to keep me motivated. Below are books I’ve read. Books I’ve especially loved are marked with an asterisk.***
