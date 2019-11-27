@@ -7,7 +7,7 @@
 
 
 
-### ***I like to share what I’m reading to keep me motivated. Below are books I’ve read. Books I’ve especially loved are marked with an asterisk.***
+ ***I like to share what I’m reading to keep me motivated. Below are books I’ve read. Books I’ve especially loved are marked with an asterisk.***
 
 ## 2019
 
