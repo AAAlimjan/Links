@@ -68,7 +68,7 @@
 6. **数学与知识的探求，[美]M·克莱因**
 7. **物理学的进化，[美]A.爱因斯坦，L.英费尔德**
 8. **时间管理：如何充分利用你的24小时，[美] 吉姆·兰德尔**
-9. **The Feynman Lectures on Physics，[US]Feynman /Leighton / Sands**
+9. **The Feynman Lectures on Physics，[US]Feynman,Leighton,Sands**
 10. **没有任何借口，[美]巴勃**
 11. **孙子兵法，[中]孙武**
 12. **Entanglement: The Greatest Mystery in Physics，[Israel]Amir D. Aczel**
