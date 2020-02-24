@@ -4,7 +4,7 @@
 >
 > ## *—《Qutadghu Bilig》*
 
-**I :heart:to share :books: I’m reading to keep me motivated:pushpin:. Below are :books: I’ve read. Those I’ve especially loved are marked with a :star:.**
+**I love to share books I’m reading to keep me motivated. Below are the books I’ve read. Those I’ve especially loved are marked with a *.**
 
 ## 2020
 
