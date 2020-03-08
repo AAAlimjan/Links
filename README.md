@@ -14,6 +14,7 @@
 4. **薛兆丰经济学讲义, [中国]薛兆丰**
 5. **The Sacred Routes of Uyghur History, [USA]Rian Thum**\*
 6. **Stealth War,  [USA]Robert Spalding**
+7. **The Big Picture, [USA]Sean Carroll**  (currently reading) 
 
 ## 2019
 
