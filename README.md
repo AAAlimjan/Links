@@ -13,6 +13,7 @@
 3. **什么是物理学,[日本]朝永振一郎**\*
 4. **薛兆丰经济学讲义, [中国]薛兆丰**
 5. **The Sacred Routes of Uyghur History, [USA]Rian Thum**\*
+6. **Stealth War,  [USA]Robert Spalding**
 
 ## 2019
 
