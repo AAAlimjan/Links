@@ -11,11 +11,12 @@
 1. **香农传, [美国]吉米·索尼&罗伯·古德曼** 
 2. **三体，[中国]刘慈欣**
 3. **什么是物理学,[日本]朝永振一郎**\*
-4. **薛兆丰经济学讲义, [中国]薛兆丰**
-5. **The Sacred Routes of Uyghur History, [USA]Rian Thum**\*
+4. **薛兆丰经济学讲义, [中国]薛兆丰***[currently reading ]*
+5. **The Sacred Routes of Uyghur History, [USA]Rian Thum**\**[currently reading ]*
 6. **Stealth War,  [USA]Robert Spalding**
-7. **The Big Picture, [USA]Sean Carroll**  
-8. **The News : A User’s Manual,  Alain de Botton[Switzerland]**\*
+7. **The Big Picture, [USA]Sean Carroll**  *[currently reading ]*
+8. **The News : A User’s Manual,  [Switzerland]Alain de Botton**\*
+9. **How to Take Smart Notes, [Germany]Sönke Ahrens****[currently reading ]*
 
 ## 2019
 
