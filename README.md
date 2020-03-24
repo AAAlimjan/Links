@@ -1,5 +1,3 @@
-#  Reading List
-
 > ## *“Man will die and only his words will remain.”*
 >
 > ## *—《Qutadghu Bilig》*
