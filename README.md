@@ -1,7 +1,3 @@
-> ## *“Man will die and only his words will remain.”*
->
-> ## *—《Qutadghu Bilig》*
-
 **I love to share books I’m reading to keep me motivated. Below are the books I’ve read. Those I’ve especially loved are marked with a *.**
 
 ## 2020
