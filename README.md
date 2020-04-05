@@ -1,5 +1,6 @@
 Useful & interesting stuff ienjoyed will be recommended here. 
 
+- [PISRA](http://pirsa.org/)
 - [Mindscape with Sean Carroll](https://podbay.fm/podcast/1406534739), [also](https://www.preposterousuniverse.com/podcast/) 
 - [West World](https://ddrk.me/westworld/2/) 
 -  [The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
