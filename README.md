@@ -18,4 +18,5 @@ Useful & interesting stuff ienjoyed will be recommended here.
 - [ZDF: Der Heilige Krieg](http://open.163.com/newview/movie/free?pid=MBUDLJE84&mid=MBUDQ93AM) 
 - [TED: Meet Spot, the robot dog that can run, hop and open doors(Boston Dynamics)](https://www.ted.com/talks/marc_raibert_meet_spot_the_robot_dog_that_can_run_hop_and_open_doors)
 - [Perimeter Institute: Meet prof. Frank Wilczek](http://pirsa.org/displayFlash.php?id=09100205)
+- [宋鸿兵：当今世界的竞争是“文化资本”之间的竞争](https://mp.weixin.qq.com/s?__biz=MzI2MDE2OTkwMg==&mid=2650518041&idx=1&sn=5957fe64ccf7701ba86992923751d163&chksm=f262dbd8c51552cebf0bcc5ff670c8ad72943abd41d7ba620aab507b62cb7cb6db90a67d9f78&scene=126&sessionid=1587873114&key=6b57fd689c726bc5797916a1b525c100226ebc2fd5e94b4ae9a9f46249713d47370f7b2b5f16edfe3223c28c5bb501d8686d349d4c8958c6366bbafb6e1bcf0191914b6fc7c53048ce08d5bada070487&ascene=1&uin=OTY1MTg0MTY0&devicetype=Windows+7+x64&version=62090070&lang=zh_CN&exportkey=AU8omMYw%2F7NpR%2Fi1uXtxTcA%3D&pass_ticket=3VjDwPoYxm9E46Wt78DPcTEMb1s01QC3a22xA0SBsVgmREIoNEwk2Po%2FTPRfAb1g)
 
