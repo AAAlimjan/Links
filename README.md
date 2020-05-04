@@ -4,6 +4,7 @@ useful stuff will be recommended here.
 -  [微信读书](https://weread.qq.com/)
 - [HBO: West World](https://ddrk.me/westworld/2/) 
 - [Prime Original: Modern Love](https://www.zxzj.me/video/2456-1-1.html)
+- [NETFLIX: Love, Death, Robot](https://www.zxzj.me/video/1974-1-1.html)
 - [PBS: The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
 - [CCTV: 资本的故事](https://www.bilibili.com/video/BV1mW411J7ED)
 - [PBS: Space-Time](https://www.bilibili.com/video/BV1nt41167AB)
