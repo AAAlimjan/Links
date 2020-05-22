@@ -18,3 +18,5 @@ useful stuff will be recommended here.
 -  [Perimeter Institute: Meet Frank Wilczek](http://pirsa.org/displayFlash.php?id=09100205)    
 -  [宋鸿兵：当今世界的竞争是“文化资本”之间的竞争](https://mp.weixin.qq.com/s?__biz=MzI2MDE2OTkwMg==&mid=2650518041&idx=1&sn=5957fe64ccf7701ba86992923751d163&chksm=f262dbd8c51552cebf0bcc5ff670c8ad72943abd41d7ba620aab507b62cb7cb6db90a67d9f78&scene=126&sessionid=1587873114&key=6b57fd689c726bc5797916a1b525c100226ebc2fd5e94b4ae9a9f46249713d47370f7b2b5f16edfe3223c28c5bb501d8686d349d4c8958c6366bbafb6e1bcf0191914b6fc7c53048ce08d5bada070487&ascene=1&uin=OTY1MTg0MTY0&devicetype=Windows+7+x64&version=62090070&lang=zh_CN&exportkey=AU8omMYw%2F7NpR%2Fi1uXtxTcA%3D&pass_ticket=3VjDwPoYxm9E46Wt78DPcTEMb1s01QC3a22xA0SBsVgmREIoNEwk2Po%2FTPRfAb1g)
 -  [Demis Hassabis: Creativity and AI](https://www.bilibili.com/video/BV1Mt411v7ah?from=search&seid=17684095791185446669)
+-  [曹则贤：什么是物理？](https://www.xuexi.cn/lgpage/detail/index.html?id=6923317913165558311)
+
