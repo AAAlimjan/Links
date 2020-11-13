@@ -21,3 +21,8 @@ useful stuff will be recommended here.
 -  [曹则贤：什么是物理](https://www.xuexi.cn/lgpage/detail/index.html?id=6923317913165558311)
 -   [TED: 为什么屏幕剥夺了我们的快乐](https://open.163.com/newview/movie/free?pid=MDTFLSHM8&mid=MDTFMDGS0#share-mob) 
 
+APPS&WEBSITES
+
+- [Listary- search utility for Windows](https://www.listary.com/)
+- [TiddlyWiki](https://tiddlywiki.com/)
+
