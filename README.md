@@ -34,9 +34,23 @@
 - [Kurzgesagt](https://www.bilibili.com/video/BV1Ga411A71Z)
 - [Demis Hassabis: Creativity and AI](https://www.bilibili.com/video/BV1Mt411v7ah?from=search&seid=17684095791185446669)
 - [曹则贤：什么是物理](https://www.xuexi.cn/lgpage/detail/index.html?id=6923317913165558311)
-
 - [TED: 为什么屏幕剥夺了我们的快乐](https://open.163.com/newview/movie/free?pid=MDTFLSHM8&mid=MDTFMDGS0#share-mob) 
 - [宋鸿兵：当今世界的竞争是“文化资本”之间的竞争](https://mp.weixin.qq.com/s?__biz=MzI2MDE2OTkwMg==&mid=2650518041&idx=1&sn=5957fe64ccf7701ba86992923751d163&chksm=f262dbd8c51552cebf0bcc5ff670c8ad72943abd41d7ba620aab507b62cb7cb6db90a67d9f78&scene=126&sessionid=1587873114&key=6b57fd689c726bc5797916a1b525c100226ebc2fd5e94b4ae9a9f46249713d47370f7b2b5f16edfe3223c28c5bb501d8686d349d4c8958c6366bbafb6e1bcf0191914b6fc7c53048ce08d5bada070487&ascene=1&uin=OTY1MTg0MTY0&devicetype=Windows+7+x64&version=62090070&lang=zh_CN&exportkey=AU8omMYw%2F7NpR%2Fi1uXtxTcA%3D&pass_ticket=3VjDwPoYxm9E46Wt78DPcTEMb1s01QC3a22xA0SBsVgmREIoNEwk2Po%2FTPRfAb1g)
+- [量子力学的秘密(BBC)](https://www.bilibili.com/bangumi/play/ss20708/)
+- [人民记忆：70年70城](https://www.bilibili.com/bangumi/media/md28222764/)
+- [艾萨克·牛顿：最后的魔术师](https://www.bilibili.com/bangumi/media/md4312862/)
+- [宇宙大爆炸前发生了什么](https://www.bilibili.com/bangumi/media/md75632/)
+- [切尔诺贝利：30年后](https://www.bilibili.com/bangumi/media/md7768413/)
+- [创新中国](https://www.bilibili.com/bangumi/media/md58712/)
+- [冒险雷探长](https://www.bilibili.com/bangumi/media/md142552/)
+- [网络捍卫者](https://www.bilibili.com/bangumi/media/md28220171/)
+- [比特币：我们所知的货币结局](https://www.bilibili.com/bangumi/media/md28220190/)
+- [算法: 如何主导人类世界](https://www.bilibili.com/bangumi/media/md28227021/)
+- [百家讲坛之孙子兵法](https://www.bilibili.com/bangumi/media/md28223824/)
+- [密码破译员](https://www.bilibili.com/bangumi/media/md118012/)
+- [Nobel Lecture in Literature: Mo Yan](https://www.bilibili.com/video/BV1Qs411S7yA)
+- [人工智能之父—艾伦・图灵(NHK)](https://www.bilibili.com/video/BV1xx41187RL)
+- [阿兰·图灵—破译纳粹密码的人(CCTV)](https://www.bilibili.com/video/BV1Bx411472R)
 
 # TV&Movies
 
