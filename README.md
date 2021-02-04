@@ -51,6 +51,8 @@
 - [Nobel Lecture in Literature: Mo Yan](https://www.bilibili.com/video/BV1Qs411S7yA)
 - [人工智能之父—艾伦・图灵(NHK)](https://www.bilibili.com/video/BV1xx41187RL)
 - [阿兰·图灵—破译纳粹密码的人(CCTV)](https://www.bilibili.com/video/BV1Bx411472R)
+- [伊隆·马斯克南加大2014毕业典礼演讲](http://open.163.com/newview/movie/free?pid=M9SVVFJAI&mid=M9SVVJRHG)
+- 
 
 # TV&Movies
 
