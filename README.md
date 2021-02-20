@@ -62,7 +62,7 @@
 - [The Shawshank Redemption](https://ddrk.me/the-shawshank-redemption/)
 - [Breaking Bad](https://ddrk.me/breaking-bad/)
 - [WestWorld](https://ddrk.me/westworld/3/)
-- [GAME OF THRONES](https://ddrk.me/game-of-thrones/)
+- [Game of Thrones](https://ddrk.me/game-of-thrones/)
 - [Chernobyl](https://ddrk.me/chernobyl/)
 - [Silicon Valley](https://ddrk.me/silicon-valley/)
 - [Rick and Morty](https://ddrk.me/rick-and-morty/)
@@ -76,4 +76,5 @@
 - [Forrest Gump](https://ddrk.me/forrest-gump/)
 - [Prison Break](http://meijuxia.net/vod/MjgwZWVlZTIyMmVx.html)
 - [The Big Bang Theory](http://meijuxia.net/vod/MjcxMmVlZWUyMjJlcQ==.html)
+- [House of Cards](https://www.zxzj.me/index.php/video/92-1-1.html)
 
