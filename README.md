@@ -16,7 +16,7 @@
 - [MIT Press Podcast](https://podbay.fm/podcast/1439938902) 
 - [Perimeter Institute: Meet Frank Wilczek](http://pirsa.org/displayFlash.php?id=09100205) 
 - [MIT Dspace]( http://dspace.mit.edu/)
-- [MIT classics](http://classics.mit.edu/index.html)
+- [MIT Classics](http://classics.mit.edu/index.html)
 - [Math Studio](http://mathstud.iov)
 - [Wolfram Alpha](https://www.wolframalpha.com)
 
@@ -129,4 +129,3 @@
 - [The Big Bang Theory](http://meijuxia.net/vod/MjcxMmVlZWUyMjJlcQ==.html)
 - [House of Cards](https://www.zxzj.me/index.php/video/92-1-1.html)
 - [Harry Potter](https://www.zxzj.me/video/375-1-1.html)
-
